@@ -1,0 +1,14 @@
+{
+  "status": "PASSED",
+  "duration_sec": 3600,
+  "max_error_pct": 1.237,
+  "mean_error_pct": 0.883,
+  "target_error_pct": "< 3.0%",
+  "final_pack_voltage_v": 13.94,
+  "cells": [
+    42.2,
+    40.8,
+    43.7,
+    39.1
+  ]
+}
